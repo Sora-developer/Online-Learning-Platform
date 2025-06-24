@@ -43,16 +43,10 @@ php_files/
     results.php
     student_dashboard.php
     take_exam.php
-    take_exam1.php
     track_exam.php
     update_course.php
     view_exams.php
 ```
-
-Other files:
-- `results.php`, `take_exam.php`, `view_exams.php` (legacy/alternate entry points)
-- `DA215_Proj2.pdf`, `Project_Report.docx` (documentation)
-- `lab_project 2.zip` (archive)
 
 ## Setup Instructions
 
@@ -81,7 +75,3 @@ Other files:
 - The certificate feature is under construction.
 - Some files in the root directory may be legacy or alternate versions.
 - For any issues, check your database connection and table structure.
-
-## License
-
-This project is for
